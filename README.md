@@ -32,3 +32,6 @@ To maximize the experience, you should use VR glasses and a Bluetooth remote con
 
 # Third Stage
 ![third](https://user-images.githubusercontent.com/63601829/96571355-218a2380-12d4-11eb-8c80-0380c622de62.gif)
+
+
+This is how it looks through the Android device
