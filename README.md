@@ -5,6 +5,7 @@ VR game Using Unity3D.
 # Project Description
 The game has 3 stages. In each stage the bottles appears differently.
 Near the player there is a pistol that moves with his head movements, and the player will fire by pressing the button on the remote control.
+
 Points will be added to the player for each hit on a bottle. However, hitting another object will end the game.
 At each stage a clock will open and the player will have to reach a minimum score in order to move on to the next stage at the given time. In addition, the score at each stage accumulates to the final score.
 The Goal of the game - to win the third stage and get the highest score.
