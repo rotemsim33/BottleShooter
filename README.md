@@ -35,3 +35,4 @@ To maximize the experience, you should use VR glasses and a Bluetooth remote con
 
 
 This is how it looks through the Android device
+![2](https://user-images.githubusercontent.com/63601829/96572629-bfcab900-12d5-11eb-9778-1e7e9287e6ca.jpeg)
