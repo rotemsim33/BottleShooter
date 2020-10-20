@@ -25,7 +25,7 @@ To maximize the experience, you should use VR glasses and a Bluetooth remote con
 # First Stage
 ![one](https://user-images.githubusercontent.com/63601829/96571333-1931e880-12d4-11eb-8fd3-d5ca099a26ed.gif)
 
-# Seconed Stage
+# Second Stage
 ![two](https://user-images.githubusercontent.com/63601829/96571318-146d3480-12d4-11eb-8b9c-a360d2bdfc28.gif)
 
 # Third Stage
